@@ -1,5 +1,5 @@
 -- question: what skills are needed 
--- for the top-paying data analyst jobs?
+-- for the top-paying data and business analyst jobs?
 -- use specific skills required for these roles 
 -- use top 10 highest paying jobs from previous query
 
